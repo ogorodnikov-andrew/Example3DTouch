@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Example3DTouch
+
+  Created by Андрей Огородников on 7/5/16.
+  Copyright © 2016 Ogorodnikov Andrei. All rights reserved.
+*/
+
+"TITLE.FAVORITES" = "Favorites";
+"TITLE.MOST_VIEWED" = "Most Viewed";
+
+"LABEL.MOST_VIEWED" = "Most viewed content.";
+"LABEL.FAVORITES" = "Favorites content.";
+"LABEL.LOGIN" = "Login to see favorites content.";
+
+"ACTION.LOGIN" = "Login";
+"ACTION.LOGOUT" = "Logout";
+
+"QUICK_ACTION.FAVORITES" = "Favorites";
